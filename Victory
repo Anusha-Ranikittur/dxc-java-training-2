@@ -1,0 +1,11 @@
+class Victory{
+
+public static void main()
+{
+
+System.out.println("//////////////////////");
+System.out.println("|| Victory is mine! ||");
+System.out.println("\\\\\\\\\\\\\\\\\\\\\\");
+
+}
+}
