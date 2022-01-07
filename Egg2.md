@@ -2,6 +2,13 @@ public class Egg2{
    public static void main(String[] args){
    
    printUpperbody();
+   printLowerbody();
+   printMiddlebody();
+   printUpperbody();
+   printLowerbody();
+   printMiddlebody();
+   printLowerbody();
+   printUpperbody();
    printMiddlebody();
    printLowerbody();
    }
